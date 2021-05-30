@@ -7,7 +7,7 @@ dribbble:
 facebook:
 flickr:
 gitlab:
-github: "sylhare"
+github: "ghedamat"
 instagram:
 keybase:
 linkedin:         # Full URL
@@ -29,12 +29,12 @@ feed:
 
 # Share button options
 share:
-  facebook: true
-  twitter: true
-  tumblr: true
-  pinterest: true
+  facebook: false
+  twitter: false
+  tumblr: false
+  pinterest: false
   pocket:
-  reddit: true
-  linkedin: true
+  reddit: false
+  linkedin: false
   wordpress:
-  email: true
+  email: false

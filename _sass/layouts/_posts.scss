@@ -87,10 +87,6 @@ header {
     color: var(--header-text);
   }
 
-  h1.title, .post-info {
-    @extend .txt-shadow;
-  }
-
   header {
     color: var(--header-text);
     margin-bottom: 0;
@@ -149,4 +145,8 @@ header {
       filter: saturate(0.7);  
     }
   }
+
+    img {
+      width: 100%;
+    }
 }
