@@ -65,7 +65,7 @@ Quoting directly from the [NixOS website](https://nixos.org/features.html):
 
 > In NixOS, the entire operating system — the kernel, applications, system packages, configuration files, and so on — is built by the Nix package manager from a description in a purely functional build language. The fact that it’s purely functional essentially means that building a new configuration cannot overwrite previous configurations. Most of the other features follow from this.
 
-Unlike most Operating Systems NixOS allows users to **describe** their desired system configuration and then leave it to Nix to *apply* said configuration an make all the required changes.
+Unlike most operating systems NixOS allows users to **describe** their desired system configuration and then leave it to Nix to *apply* said configuration and make all the required changes.
 
 There are no configuration files to edit, copy, backup **outside** of the `.nix` ones in `/etc/nixos`.
 
