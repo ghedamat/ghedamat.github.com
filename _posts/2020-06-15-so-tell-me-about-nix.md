@@ -41,7 +41,7 @@ One you have [installed Nix](https://nixos.org/download.html) you can do stuff l
 $ nix-env -iA curl
 ```
 
-and in Nix will download and install the package you selected and all its dependecies.
+and Nix will download and install the package you selected and all its dependencies.
 It will be there for you to use until you decide to delete it.
 
 There is a lot to be said about how Nix works and all the features that it brings to package management, a notable one being **reproducible builds** that guarantee that a given version of a package will **always** be the same, including all its dependencies. Some of the links at the end of this post will allow you to explore this topic.
@@ -55,7 +55,7 @@ $ nix-shell -p curl
 
 once you leave this shell `curl` will not be available anymore.
 
-`nix-shell`s can do this an much more, they also allow you to define **isolated development environments**, and share them with other developers ensuring that they can quickly spawn a `bash` shell using exactly the same dependecies you have.
+`nix-shell`s can do this an much more, they also allow you to define **isolated development environments**, and share them with other developers ensuring that they can quickly spawn a `bash` shell using exactly the same dependencies you have.
 
 `nix-shell` is a complex topic though (and I have much left to learn myself), I will probably cover it more in a future post, for now you can see a small example [here](https://ghedam.at/15443/a-nix-shell-for-developing-elixir).
 
