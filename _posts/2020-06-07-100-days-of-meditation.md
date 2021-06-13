@@ -88,5 +88,3 @@ I'm very curious to see what happens next. Will I be able to keep it up or will 
 I'm not in the business of giving advice but I'm gonna leave a thing for my future self.
 
 Even if you fail. Be kind. If you fuck up it doesn't mean that you're a fuck up.
-
-<img style="width: 1px;" src="https://conta.onrender.com/ghedam.at/15549/100-days-of-meditation" />

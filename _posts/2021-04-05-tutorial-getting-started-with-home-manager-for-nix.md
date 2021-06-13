@@ -396,5 +396,3 @@ Here's a list of other blog posts and resources that will help you get started:
 
 Many thanks to [@shazow](https://twitter.com/shazow) and [@eviltrout](https://twitter.com/eviltrout) for their feedback on this article.
 
-<img style="width: 1px;" src="https://conta.onrender.com/ghedam.at/24353/tutorial-getting-started-with-home-manager-for-nix" />
-

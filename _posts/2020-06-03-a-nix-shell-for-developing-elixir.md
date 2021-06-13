@@ -187,6 +187,3 @@ After publishing this post I found [this one](https://til.codes/nix-shell-for-el
 Another good resource I only found today is [here](https://ejpcmac.net/blog/using-nix-in-elixir-projects/)
 
 
-
-
-<img style="width: 1px;" src="https://conta.onrender.com/ghedam.at/15443/a-nix-shell-for-developing-elixir" />

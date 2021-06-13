@@ -434,5 +434,3 @@ Thanks for reading!
 * After writing this blog, I found [this post](https://myme.no/posts/2020-01-26-nixos-for-development.html) that covers a similar ground and shows some alternative and interesting solutions. Definitely worth a read!
 * Other good examples can be found at [nix.dev](https://nix.dev/tutorials/ad-hoc-developer-environments.html).
 
-
-<img style="width: 1px;" src="https://conta.onrender.com/ghedam.at/15978/an-introduction-to-nix-shell" />

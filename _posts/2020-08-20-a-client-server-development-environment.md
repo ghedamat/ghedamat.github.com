@@ -232,5 +232,3 @@ Aside from the obvious one of having to learn how to do all this and having to b
 > 👋 As always, suggestions and corrections are welcome and encouraged! Feel free to reach out to me [on twitter](https://twitter.com/ghedamat) or via email [ghedamat at gmail] and let me know what you think!
 
 Many thanks to [@typeoneerror](https://twitter.com/typeoneerror) and [@benjamintmoss](https://twitter.com/benjamintmoss) for their feedback on this article.
-
-<img style="width: 1px;" src="https://conta.onrender.com/ghedam.at/17464/a-client-server-development-environment" />

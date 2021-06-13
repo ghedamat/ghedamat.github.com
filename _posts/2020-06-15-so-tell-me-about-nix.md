@@ -179,5 +179,3 @@ On **Thursday June 25th** we are running our first online [**Toronto Nix meetup*
 
 Regardless of where you are, come join us!
 
-
-<img style="width: 1px;" src="https://conta.onrender.com/ghedam.at/15490/so-tell-me-about-nix" />

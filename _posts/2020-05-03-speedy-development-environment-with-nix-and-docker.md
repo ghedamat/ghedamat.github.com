@@ -151,6 +151,3 @@ Here are some useful resources to get you started with development in a `nix-she
 # Some caveats
 * Apple does their best to mess up 3rd party installs so installing Nix on MacOS is a [bit more complicated than one would like](https://dev.to/louy2/installing-nix-on-macos-catalina-2acb)
 * Nix is somewhat difficult programming language to learn but writing nix-shells is fairly easy
-
-
-<img style="width: 1px;" src="https://conta.onrender.com/ghedam.at/15502/speedy-development-environments-with-nix-and-docker" />

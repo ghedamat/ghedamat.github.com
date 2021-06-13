@@ -107,7 +107,3 @@ Because of that, a simpler solution would now be to add a `niv` source to track 
 
 Also of note, most of the community maintained derivations do *not* offer caches in `cachix` but often they also don't require a big build phase as the ones I was installing in this case.
 
-
-
-<img style="width: 1px;" src="https://conta.onrender.com/ghedam.at/25722/using-niv-to-install-recent-elixir-in-your-nix-shell" />
-
