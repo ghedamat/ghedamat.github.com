@@ -82,7 +82,16 @@ save this in your project directory as `shell.nix` then type `nix-shell` and you
 
 ## Bonus: Add gigalixir support
 [https://www.gigalixir.com](https://www.gigalixir.com/) is one of the simplest ways to deploy Elixir applications.
-Similarly to Heroku, you subscribe, create hjan account, install the cli and you are off to the races.
+Similarly to Heroku, you subscribe, create an account, install the cli and you are off to the races.
+
+### Jan 2022 Update
+
+Gigalixir is now on [nixpkgs](https://search.nixos.org/packages?channel=21.11&from=0&size=50&sort=relevance&type=packages&query=gigalixir)! 
+If you are on a recent version of nixpkgs (I tested 21.11) all you need to do is add `gigalixir` to the list of packages above.
+
+Note: the package is currently broken in `nixpkgs-unstable`, afterall it is called "unstable" :)
+
+### Old install process
 
 The problem is that our `nix-shell` does not allow us to run `pip install gigalixir` and install the `gigalixir` command line utility.
 
