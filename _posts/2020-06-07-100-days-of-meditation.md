@@ -52,7 +52,7 @@ Even if I had already encountered a lot of the concepts that Jud Brewer talks ab
 
 The parallel between the method the app uses and what we do with our clients at work (maybe I'll talk about my experience with [PN coaching](https://www.precisionnutrition.com/coaching-for-men) too at some point) are stirking and that probably gave me faith in the methodology, given that it worked so well for my nutrition and training habits in the past.
 
-The program guides you to bring mindfulness to you anxiety, to look at your patterns and learn to observe yourself as things happen. Interestingly enough, there's very little "traditional mediatation".
+The program guides you to bring mindfulness to you anxiety, to look at your patterns and learn to observe yourself as things happen. Interestingly enough, there's very little "traditional meditation".
 
 ## Did I finally start meditating?
 
@@ -61,7 +61,7 @@ Not why in a scientific sense but why from an experiential standpoint.
 What is there, what is this mind that is doing this to me and how does it work?
  
 And this is when I started going back to Andrea's teachings (well Buddhism techings to be precise). The following is a great and imprecise oversemplifications but it conveys my current understanding.
-The mind is a muscle, and like other muscles it can be trained. Through concentration practice we can stabilize the mind, once the mind is stable the mind can be used to observe, traditionally observasion can be of sensations, feelings, the mind itself and all phenomena. The mind can then see itself and see what is real.
+The mind is a muscle, and like other muscles it can be trained. Through concentration practice we can stabilize the mind, once the mind is stable the mind can be used to observe, traditionally observation can be of sensations, feelings, the mind itself and all phenomena. The mind can then see itself and see what is real.
 
 I wanted some answers and I had a way to go get them. Not to feel better, not to run away, but to face them. 
 

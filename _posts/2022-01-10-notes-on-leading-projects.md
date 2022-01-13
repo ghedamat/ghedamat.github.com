@@ -21,6 +21,8 @@ My goal is to clarify my own thinking on this topic as well as giving insipirati
 
 As the engineers in charge of the project a lot of things are our responsibility. Because we are familiar with the requirements as well as the implementation often we have the most accurate picture and that is a big opportunity for contributing beyond writing code.
 
+We are partners and allies with product managers and designers in ensuring the success of the project.
+
 Fulfilling the expectations of this role means enabling the team to deliver "good work" defined as:
 - on time
 - on budget
@@ -51,6 +53,8 @@ Cutting scope allows us to hone in on what's the core value proposition for the 
 
 The goal is to ship fast, quickly testing what's being coded and ideally getting the feature in front of real users even before the planned deadline. 
 
+Our role then is to help inform product about where it's safe to cut scope and flag items that could lead to delays and change in timelines. 
+
 ## Feature flags
 
 I believe in **feature flags vs feature branches**. Even if they can make the code a bit messy and require cleanup, in my experience they are a fantastic tool. They allow us to have new code be as close as possible to production and avoid the pain of long running branches.
@@ -73,7 +77,8 @@ And you are right, they can not, and that's OK.
 **What is always possible in my experience is breaking down a problem** into smaller problems that CAN be solved in 6 weeks.
 Sometimes this will mean releasing something only internally, other times it will mean shipping alpha to a small subset of trusted users.
 
-Focusing on small cycles will produce shorter feedback loops and force the team to create working shippable software that can be used to gather more information and iterate toward the end goal.
+As the lead engineer we can work with the product managers to break down tasks and identify what parts of the solution fit into the timebox.
+
 
 ## Evaluating Risk
 
@@ -85,6 +90,8 @@ A big part of the job is making technical decisions, here are some of the things
 - migrations
 	- getting existing users on the feature
 	- moving existing data
+
+We want to understand where the risk is and work with product to help shape the requirements in a way that minimizes it while maximizing value for our customers.
 
 # The phases of a project
 Projects can be broken down in 3 parts:
@@ -162,4 +169,4 @@ People smarter and more experienced than me have written a lot on this topic, he
 
 ## Thanks
 
-Many thanks to [@typeoneerror](https://twitter.com/typeoneerror) and [@benjamintmoss](https://twitter.com/benjamintmoss) for their feedback on this article.
+Many thanks to [@typeoneerror](https://twitter.com/typeoneerror), [@lukegalea](https://twitter.com/lukegalea) and [@benjamintmoss](https://twitter.com/benjamintmoss) for their feedback on this article.
