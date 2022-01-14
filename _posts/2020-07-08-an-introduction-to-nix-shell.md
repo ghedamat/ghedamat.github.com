@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 # Short version
 
-On June 26th I gave a short talk at our [Toronto Elixir Meetup](https://www.meetup.com/TorontoElixir/events/270441307/), this post is an extended version of that talk.
+On June 26th I gave a short talk at our [Toronto Nix Meetup](https://www.meetup.com/NixToronto/events/271227144/), this post is an extended version of that talk.
 <!--more-->
 
 If you are in a rush, you can skim through the slides here:
