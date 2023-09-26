@@ -1,5 +1,5 @@
 ---
-redirect_to: https://calendly.com/ghedamat
+redirect_to: https://koalendar.com/e/ghedamat
 layout: page
 title: BookMe
 permalink: /bookme/
