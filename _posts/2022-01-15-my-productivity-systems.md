@@ -36,7 +36,7 @@ My days are organized using [Bullet Journaling](https://bulletjournal.com/) (in 
 
 When I started doing this the main benefit that I found was that, because it's on paper, **BuJo forces a constant reflection on the tasks** that I carry over into the next day (I manually have to copy them).
 
-In the last few years Bullet Journaling has grown a lot in popularity, now there's a [book](https://www.goodreads.com/en/book/show/39071691) (worth a quick read), a community, apps etc. The core information [is still available for free](https://bulletjournal.com/pages/learn).
+In the last few years Bullet Journaling has grown a lot in popularity, now there's a [book](https://www.goodreads.com/en/book/show/39071691) (worth a quick read), a community, apps etc. The core information [is still available for free](https://bulletjournal.com/blogs/faq).
 
 After years of doing it on paper I now do it digitally, it requires more discipline (copy-paste is almost free) but it fits better in my PKM (see below). If you are just getting started I would suggests to do paper for at least a few months.
 
@@ -70,7 +70,7 @@ Every evening I track my mood for the day and I write a few words on what happen
 Initially I tried to track with a lot of granularity the people I met and the things I did but I found the overhead to be too much so I scaled back.
 
 ## Weekly Reviews
-The next 3 sections are all dedicated to practices that I adopted from Sebastian Marshall and the folks at [Ultraworking](https://ultraworking.com). 
+The next 3 sections are all dedicated to practices that I adopted from Sebastian Marshall and the folks at [Ultraworking](https://ultraworking.com).
 
 Every Sunday afternoon/evening I spend 30-60 minutes looking at the week that just ended and at the one that is about to start.
 
