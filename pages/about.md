@@ -14,7 +14,7 @@ How do you know someone is Italian? They tell you 🤌
 
 I was born and raised in Italy and in my twenties I moved with my lifetime partner to Toronto, Canada.
 
-After finishing my masters in Computer Engineer and working for a few years, the search for opportunities brought me to Spain, England and eventually landed me in Toronto. Everyone expected it to be another temporary stop but, this time, before I knew it I found myself at home 🇨🇦.
+After finishing my masters in Computer Engineer and working for a few years, the search for opportunities brought me to Spain, England and eventually landed me in Toronto. Everyone expected it to be another temporary stop but this time, before I knew, it I found myself at home 🇨🇦.
 
 
 ### I'm a nerd for..
