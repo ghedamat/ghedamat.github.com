@@ -41,14 +41,9 @@ collections:
     permalink: /:collection/:name
 
 # BUILD SETTINGS
-plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed, jekyll-redirect-from, jekyll-analytics]
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed, jekyll-redirect-from]
 exclude: [".jekyll-cache", ".idea", "vendor/*", "assets/node_modules/*"]
 
 # theme: type-on-strap                                  # if using the theme as a jekyll theme gem
 #remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
 remote_theme: mmistakes/so-simple-theme@3.2.0
-
-
-jekyll_analytics:
-  Plausible:
-    domain: 'ghedam.at'   # The domain configured in plausible
